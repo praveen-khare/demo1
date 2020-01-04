@@ -1,3 +1,8 @@
 This is license file
+<<<<<<< Updated upstream
 demo is aaded
 emrgency fix.
+=======
+demo is aaded.
+new line added
+>>>>>>> Stashed changes
